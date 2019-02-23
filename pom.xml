@@ -22,9 +22,9 @@
 	<!-- Compile -->
 	<dependency>
 		<groupId>org.springframework.boot</groupId>
-		<artifactId>spring-boot-starter</artifactId>
+		<artifactId>spring-boot-starter-web</artifactId>
 		<version>${spring.boot.version}</version>
-	</dependency>
+	</dependency>	
   	<!-- Test -->
     <dependency>
       <groupId>junit</groupId>
